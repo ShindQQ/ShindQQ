@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center">I`m passionate about .NET and everything connected with it.</h3>
 
-<!--
-**ShindQQ/ShindQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [ShoShoppers](https://github.com/ShindQQ/ShoShoppers)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C#, React, JS and other cool stuff**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :bell: Connect with me :
+[![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shindd)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denysfedorovshindqq/)
+
+### Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,react,js,tailwind,docker,jenkins,nginx,git,linux&perline=3)](https://skillicons.dev)
+
+----
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shindqq&theme=tokyonight&hide_border=true) ](https://git.io/streak-stats) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shindqq&show_icons=true&theme=tokyonight&hide_border=true)
