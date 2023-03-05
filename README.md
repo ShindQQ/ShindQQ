@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shindd)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denysfedorovshindqq/)
 
-### Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,react,js,tailwind,docker,jenkins,nginx,git,linux&perline=3)](https://skillicons.dev)
 
