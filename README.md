@@ -15,5 +15,5 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,react,js,tailwind,docker,jenkins,nginx,git,linux&perline=3)](https://skillicons.dev)
 
 ----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shindqq&theme=tokyonight&hide_border=true) ](https://git.io/streak-stats) 
+![GitHub Streak](https://streak-stats.demolab.com?user=shindqq&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shindqq&show_icons=true&theme=tokyonight&hide_border=true)
