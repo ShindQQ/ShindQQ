@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [ShoShoppers](https://github.com/ShindQQ/ShoShoppers)
 
-- 🌱 I’m currently learning **C#, React, JS and other cool stuff**
+- 🌱 I’m currently learning **C#, ASP.NET Core and frameworks to work with it, React, JS and other cool stuff**
 
 ---
 
