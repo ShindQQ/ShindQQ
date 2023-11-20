@@ -1,8 +1,8 @@
 <h3 align="center">I`m passionate about .NET and everything connected with it.</h3>
 
-- 🔭 I’m currently working on [ShoShoppers](https://github.com/ShindQQ/ShoShoppers)
+- 🔭 I’m currently working on VRealSoft
 
-- 🌱 I’m currently learning **C#, ASP.NET Core and frameworks to work with it, React, JS and other cool stuff**
+- 🌱 Learning ASP.NET Core in free time
 
 ---
 
