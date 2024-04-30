@@ -12,7 +12,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,react,js,tailwind,docker,jenkins,nginx,git,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rider,mysql,postgres,docker,jenkins,nginx,git,linux,postman,grafana,&perline=3)](https://skillicons.dev)
 
 ----
 ![GitHub Streak](https://streak-stats.demolab.com?user=shindqq&theme=tokyonight&hide_border=true)
